@@ -1,5 +1,5 @@
 package com.mio.simba.client;
 
-public interface GciListener {
+public interface GCIListener {
 
 }

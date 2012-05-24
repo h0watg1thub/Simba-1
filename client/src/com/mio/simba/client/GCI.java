@@ -56,5 +56,5 @@ public interface GCI {
 	 * 
 	 * @param l
 	 */
-	public void addConnListener(GciListener l);
+	public void addConnListener(GCIListener l);
 }
