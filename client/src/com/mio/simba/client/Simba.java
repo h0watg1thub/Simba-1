@@ -56,7 +56,7 @@ public class Simba extends Activity implements OnClickListener {
 			e.printStackTrace();
 		}*/
         conn = (GCI)new GCIXMPP();
-        conn.init();
+        //conn.init();
     }
 
 
